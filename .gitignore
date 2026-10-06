@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+
+logs/*.log
+screenshots/*.png
+resultados/*.xlsx
+
+.vscode/
